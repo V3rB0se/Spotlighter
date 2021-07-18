@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spotlighter V1", "Spotlighter V1.csproj", "{4D617E16-DABE-440C-B6E5-786D90E8562A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D617E16-DABE-440C-B6E5-786D90E8562A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D617E16-DABE-440C-B6E5-786D90E8562A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D617E16-DABE-440C-B6E5-786D90E8562A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D617E16-DABE-440C-B6E5-786D90E8562A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FA2A3F4B-A546-4FEA-B39A-1DE35A6004F5}
+	EndGlobalSection
+EndGlobal
